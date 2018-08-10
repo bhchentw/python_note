@@ -13,3 +13,9 @@ https://github.com/doggy8088/Learn-Git-in-30-days
 
 等同svn log
 =>git log
+
+建立repository 和 SSH key 參考下面的link
+http://wiki.csie.ncku.edu.tw/github
+簡易教學
+https://ihower.tw/git/remote.html
+
