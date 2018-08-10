@@ -25,3 +25,6 @@ $ git push -u origin master
 查看repository建立帳號和名稱
 =>git remote -v
 
+照理說之後可以直接git push就好, 但有遇到error就key下列command 之後就 => 可以直接git push
+=>git push --set-upstream origin master
+
